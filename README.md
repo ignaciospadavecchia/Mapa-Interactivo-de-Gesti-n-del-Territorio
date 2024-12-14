@@ -1,6 +1,6 @@
 # Mapa interactivo de Gestión de Territorio
 
-Mapa de referencia del territorio de Pamplona / Iruña con indicación de zonas elevadas en caso de inundación e indicación de elevación específica en puntos de referencia. 
+Mapa de referencia del territorio de Pamplona / Iruña con indicación de elevación específica en puntos de referencia. 
 
 # Siguientes pasos
 
