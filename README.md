@@ -1,4 +1,4 @@
-# Mapa interactivo de Gestión de Territorio
+# Mapa interactivo de Gestión de Territorio · Angular · Mapbox 
 
 Mapa del territorio de Pamplona / Iruña con referencia de elevación puntual y exportación a GeoJSON (en progreso).
 
